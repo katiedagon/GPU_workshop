@@ -1,0 +1,14 @@
+
+Currently Loaded Modules:
+  1) ncarenv/1.2   2) nvhpc/20.11   3) cuda/11.0.3
+
+ 
+
+
+Currently Loaded Modules:
+  1) ncarenv/1.2   2) nvhpc/20.11   3) cuda/11.0.3
+
+ 
+
+Fatal error: kernel launch failure (invalid configuration argument at matmul.cu:72)
+*** FAILED - ABORTING
